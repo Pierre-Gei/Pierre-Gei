@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pierre-Gei&show_icons=true&line_height=27&count_private=true&theme=synthwave" alt="Pierre-Gei's GitHub Stats" />
 </a>
 <br><br>
-<a href="https://wakatime.com/@Pierre-Gei">
+<a href="https://wakatime.com/@Pierre_Gei">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Pierre_Gei&theme=synthwave&count_private=true" alt="Pierre-Gei's GitHub Stats" />
 </a>
 
