@@ -10,7 +10,7 @@
 </a>
 <br><br>
 <a href="https://wakatime.com/@Pierre_Gei">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Pierre_Gei&theme=synthwave&count_private=true" alt="Pierre-Gei's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Pierre_Gei&theme=synthwave&count_private=true" alt="Pierre-Gei's GitHub Stats" />
 </a>
 
 
